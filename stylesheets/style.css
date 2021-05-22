@@ -245,6 +245,14 @@ ion-icon {
   background: #3b5998;
 }
 
+.icon-telegram {
+  color: #35530a;
+}
+
+.icon-telegram:hover {
+  background: #35530a;
+}
+
 .icon-transcript {
   color: #ff7700;
 }
