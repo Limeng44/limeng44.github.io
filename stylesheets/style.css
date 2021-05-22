@@ -237,6 +237,14 @@ ion-icon {
   background: #cd486b;
 }
 
+.icon-facebook {
+  color: #3b5998;
+}
+
+.icon-facebook:hover {
+  background: #3b5998;
+}
+
 .icon-transcript {
   color: #ff7700;
 }
